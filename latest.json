@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "buildNumber": 3,
+  "apkUrl": "https://raw.githubusercontent.com/dina-202/KharchaBook-Releases/updates/KharchaBook-latest.apk",
+  "sha256": "22df0ee0bb925b238a6b5278f5494955189b280a17f2ca2d9e119e8995dade90",
+  "releaseNotes": "KharchaBook is ready for Google Play with Android 16 support and Play-managed updates. Direct downloads keep the secure, checksum-verified updater."
+}
